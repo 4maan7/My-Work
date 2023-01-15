@@ -1,0 +1,165 @@
+{
+  "button": {
+    "colours": {
+      "normal_bg": "#ffffff",
+      "hovered_bg": "#ff0000",
+      "disabled_bg": "#25292e",
+      "selected_bg": "#193754",
+      "active_bg": "#193754",
+      "dark_bg": "#15191e",
+      "normal_text": "#191970",
+      "hovered_text": "#191970",
+      "selected_text": "#FFFFFF",
+      "disabled_text": "#6d736f",
+      "active_text": "#FFFFFF",
+      "normal_border": "#DDDDDD",
+      "hovered_border": "#B0B0B0",
+      "disabled_border": "#808080",
+      "selected_border": "#8080B0",
+      "active_border": "#8080B0"
+    },
+
+    "font": {
+      "name": "Montserrat",
+      "size": "30",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    }
+  },
+
+  "@sm_btn": {
+    "colours": {
+      "normal_bg": "#ffffff",
+      "hovered_bg": "#ff0000",
+      "disabled_bg": "#25292e",
+      "selected_bg": "#193754",
+      "active_bg": "#193754",
+      "dark_bg": "#15191e",
+      "normal_text": "#191970",
+      "hovered_text": "#191970",
+      "selected_text": "#FFFFFF",
+      "disabled_text": "#6d736f",
+      "active_text": "#FFFFFF",
+      "normal_border": "#DDDDDD",
+      "hovered_border": "#B0B0B0",
+      "disabled_border": "#808080",
+      "selected_border": "#8080B0",
+      "active_border": "#8080B0"
+    },
+
+    "font": {
+      "name": "Montserrat",
+      "size": "20",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    }
+  },
+
+  "@errors": {
+    "colours": {
+      "normal_text": "#ff0000"
+    },
+    "font": {
+      "name": "",
+      "size": "20",
+      "bold": "1",
+      "italic": "0",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    }
+  },
+
+  "@header": {
+    "colours": {
+      "text_shadow": "#191970",
+      "normal_text": "#ffffff"
+    },
+    "font": {
+      "name": "",
+      "size": "50",
+      "bold": "1",
+      "italic": "0",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    },
+    "misc": {
+      "text_shadow": "1",
+      "text_shadow_size": "1",
+      "text_shadow_offset": "0,0"
+    }
+  },
+  "@score_board": {
+    "colours": {
+      "text_shadow": "#000000",
+      "normal_text": "#ffffff"
+    },
+    "font": {
+      "name": "",
+      "size": "50",
+      "bold": "1",
+      "italic": "0",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    },
+    "misc": {
+      "text_shadow": "1",
+      "text_shadow_size": "3",
+      "text_shadow_offset": "0,0"
+    }
+  },
+
+  "text_entry_line": {
+    "colours": {
+      "dark_bg": "#555555aa",
+      "selected_bg": "#55595e",
+      "normal_text": "#191970",
+      "selected_text": "#FFFFFF",
+      "normal_border": "#FFFFFF"
+    },
+    "font": {
+      "name": "montserrat",
+      "size": "20",
+      "bold": "0",
+      "italic": "0",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": 5,
+      "border_width": "2",
+      "shadow_width": "2",
+      "padding": "6,4"
+    }
+  },
+
+  "text_box": {
+    "colours": {
+      "dark_bg": "#ffffffaa",
+      "normal_text": "#191970"
+    },
+
+    "font": {
+      "name": "montserrat",
+      "size": "20",
+      "bold": "0",
+      "italic": "0",
+      "regular_resource": {
+        "package": "Assets",
+        "resource": "Montserrat.ttf"
+      }
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "biology": [
+    {
+      "number": "1",
+      "Q": "What is photosynthesis??",
+      "A": ["Photosynthesis"],
+      "hint": "A process where plants use sunlight water and carbon dioxide to create oxygen",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "2",
+      "Q": "What % of the human body is made up of water?",
+      "A": ["60-70%"],
+      "hint": "majority of the human body is made up of water",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "3",
+      "Q": "Name the type of cell from the diagram below",
+      "A": ["Animal Cell"],
+      "hint": "contains lysosomes",
+      "image": "data/img/bio_3.png",
+      "score": 10
+    },
+    {
+      "number": "4",
+      "Q": "Fill in the blank from the passage below ",
+      "A": ["Energy"],
+      "hint": "",
+      "image": "data/img/bio_4.png",
+      "score": 10
+    },
+    {
+      "number": "5",
+      "Q": "Which part of the brain controls stores and releases hormones that regulate body functions?",
+      "A": ["Pituitary Gland"],
+      "hint": "It's a gland of the brain located next to the hypothalamus",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "6",
+      "Q": "Fill in the blank from the word equation below",
+      "A": ["Glucose"],
+      "hint": "substance that acts as a source of energy",
+      "image": "data/img/bio_6.png",
+      "score": 10
+    },
+    {
+      "number": "7",
+      "Q": "Name the organ highlighted in the image below",
+      "A": ["Pancreas"],
+      "hint": "produces insulin and digestive juices",
+      "image": "data/img/bio_7.png",
+      "score": 10
+    }
+  ],
+  "physics": [
+    {
+      "number": "1",
+      "Q": "Fill in the blank for the definition of acceleration below",
+      "A": ["Velocity"],
+      "hint": "begins with a V",
+      "image": "data/img/phy_1.png",
+      "score": 10
+    },
+    {
+      "number": "2",
+      "Q": "What is force measured in?",
+      "A": ["Newtons"],
+      "hint": "Symbol (N)",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "3",
+      "Q": "The quantity of mass per unit volume is also known as?",
+      "A": ["Density"],
+      "hint": "kg/m^3",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "4",
+      "Q": "Name the component in the diagram below",
+      "A": ["Variable Resistor"],
+      "hint": " A type of resistor",
+      "image": "data/img/phy_4.png",
+      "score": 10
+    },
+    {
+      "number": "5",
+      "Q": "Name one of 5 vector quantities",
+      "A": ["Force","Velocity","Displacement","Acceleration","Momentum"],
+      "hint": "no hint",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "6",
+      "Q": "What's the relationship between acceleration & Mass?",
+      "A": ["Inversely proportional"],
+      "hint": "not directly proportional",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "7",
+      "Q": "What type of wave is shown in the diagram below",
+      "A": ["Transverse wave"],
+      "hint": "either transverse or longitude wave",
+      "image": "",
+      "score": 10
+    }
+
+  ],
+  "chemistry": [
+    {
+      "number": "1",
+      "Q": "Name the model shown in the diagram below",
+      "A": ["Plum Pudding Model"],
+      "hint": "Discovered by JJ Thompson in 1897",
+      "image": "data/img/che_1.png",
+      "score": 10
+    },
+    {
+      "number": "2",
+      "Q": "What charge do electrons have?",
+      "A": ["Negative"],
+      "hint": "Not positive",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "3",
+      "Q": "What’s the symbol for sodium",
+      "A": ["Na"],
+      "hint": "",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "4",
+      "Q": "A mixture of two or more elements is referred to you as what",
+      "A": ["Compound"],
+      "hint": " joined by chemical bonds (water)",
+      "image": "",
+      "score": 10
+    },
+    {
+      "number": "5",
+      "Q": "What is the molecule shown in the diagram below?",
+      "A": ["H2O"],
+      "hint": "Water",
+      "image": "data/img/che_5.png",
+      "score": 10
+    },
+    {
+      "number": "6",
+      "Q": "What is the electronic structure of Potassium?",
+      "A": ["2.8.8.1"],
+      "hint": "Count each electron per shell",
+      "image": "data/img/che_6.png",
+      "score": 10
+    },
+    {
+      "number": "7",
+      "Q": "Which chemical experiment is used to separate different liquids in a mixture",
+      "A": ["Distillation"],
+      "hint": "process involves heating, evaporation & condensation",
+      "image": "",
+      "score": 10
+    }
+    
+  ]
+}
